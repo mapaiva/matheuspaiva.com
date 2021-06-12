@@ -1,4 +1,39 @@
-theme = "ananke"
-baseURL = "https://matheuspaiva.com/"
-languageCode = "en-us"
 title = "Matheus Paiva"
+baseURL = "https://matheuspaiva.com"
+languageCode = "en-us"
+theme = "ananke"
+# resourceDir = "../resources"
+
+# DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Matheus Paiva"
+    weight = 1
+    contentDir = "content/en"
+  # [languages.pt]
+  #   title = "Matheus Paiva"
+  #   weight = 2
+  #   contentDir = "content/pt"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  twitter = "https://twitter.com/mapaiva_a"
+  instagram = "https://www.instagram.com/mapaiva_a/"
+  github = "https://github.com/mapaiva"
+  linkedin = "https://www.linkedin.com/in/matheus-paiva-29193879/"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
