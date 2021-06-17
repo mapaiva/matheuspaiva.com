@@ -27,7 +27,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "/images/logo.png"
   description = "The last theme you'll ever need. Maybe."
   twitter = "https://twitter.com/mapaiva_a"
   instagram = "https://www.instagram.com/mapaiva_a/"
