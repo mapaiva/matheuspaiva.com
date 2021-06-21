@@ -1,6 +1,6 @@
 ---
 title: "Plan • Execute • Live"
-featured_image: "/images/featured-1.png"
+featured_image: "/images/featured-home.jpeg"
 description: "Software Engineering, Web, Golang, Elixir"
 ---
 

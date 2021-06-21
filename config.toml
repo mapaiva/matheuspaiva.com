@@ -32,7 +32,7 @@ enableRobotsTXT = true
   github = "https://github.com/mapaiva"
   linkedin = "https://www.linkedin.com/in/matheus-paiva-29193879/"
   background_color_class = "bg-black"
-  featured_image = "/images/featured-3.jpeg"
+  featured_image = "/images/featured-article.jpeg"
   recent_posts_number = 4
 
 [permalinks]
