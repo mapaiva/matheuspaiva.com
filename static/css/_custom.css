@@ -1,0 +1,26 @@
+@media screen and (min-width: 60em) {
+  .cover {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .bg-black-60 {
+    height: 100vh;
+  }
+
+  .tc-l.pv4.pv6-l.ph3.ph4-ns {
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* .sans-serif {
+  font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir,
+    "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial,
+    sans-serif;
+} */

@@ -34,6 +34,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/featured-article.jpeg"
   recent_posts_number = 4
+  show_reading_time = true
+  custom_css = ["/css/_custom.css"]
 
 [permalinks]
   posts = "posts/:slug/"
