@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700;900&display=swap");
+
 @media screen and (min-width: 60em) {
   .cover {
     height: 100vh;
@@ -19,8 +21,19 @@
   }
 }
 
-/* .sans-serif {
-  font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir,
-    "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial,
-    sans-serif;
-} */
+.sans-serif {
+  font-family: Poppins, sans-serif;
+}
+
+.lh-title {
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.serif {
+  font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.athelas {
+  font-family: Poppins, sans-serif;
+}

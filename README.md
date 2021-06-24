@@ -15,3 +15,16 @@ brew install hugo
 ```sh
 hugo server -D
 ```
+
+## TODO
+
+### v1
+
+- [x] Mudar imagens featured
+- [x] Criar área About com conteúdo do figma
+- [ ] Deixar área de projetos mais atrativa (colocar linguagens, start como tags em cada projeto)
+- [ ] Mudar design
+
+### v2
+
+- [ ] Traduzir para pt-BR

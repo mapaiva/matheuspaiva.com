@@ -36,6 +36,8 @@ enableRobotsTXT = true
   recent_posts_number = 4
   show_reading_time = true
   custom_css = ["/css/_custom.css"]
+  body_classes = "sans-serif"
+  post_content_classes = "serif"
 
 [permalinks]
   posts = "posts/:slug/"
