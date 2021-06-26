@@ -28,7 +28,15 @@ body {
     padding-left: 2rem;
     padding-right: 2rem;
   }
+
+  .w-two-thirds-l {
+    width: 100%;
+  }
 }
+
+/* 
+ Sans Serif Styles 
+ */
 
 .sans-serif {
   font-family: Poppins, sans-serif;
@@ -56,9 +64,23 @@ body {
   font-weight: bold;
 }
 
+.sans-serif main .center {
+  max-width: 700px;
+  box-sizing: border-box;
+}
+
 .f2.f-subheadline-l.fw2.white-90.mb0.lh-title {
   font-size: 60px;
 }
+
+.fw1.f5.f3-l.white-80.measure-wide-l.center.mt3 {
+  font-weight: 300;
+  opacity: 0.8;
+}
+
+/* 
+ Serif Styles 
+ */
 
 .serif {
   font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
