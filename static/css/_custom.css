@@ -113,6 +113,11 @@ body {
   border: 0;
 }
 
+blockquote {
+  margin-left: 0 !important;
+  font-style: italic;
+}
+
 .athelas {
   font-family: Poppins, sans-serif;
 }
