@@ -4,8 +4,6 @@ date: 2021-06-15T19:03:06-03:00
 featured_image: "/images/featured-projects.jpeg"
 ---
 
-A list of projects I created or was proudly part of.
-
 ## 2021
 
 [opentelemetry-go-example](https://github.com/mapaiva/opentelemetry-go-example)
