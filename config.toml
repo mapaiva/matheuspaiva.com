@@ -5,7 +5,7 @@ theme = "ananke"
 
 SectionPagesMenu = "main"
 Paginate = 5
-googleAnalytics = ""
+googleAnalytics = "UA-32844244-1"
 enableRobotsTXT = true
 
 [languages]
