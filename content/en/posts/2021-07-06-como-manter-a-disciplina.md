@@ -17,7 +17,6 @@ Para mim, a chave foi ter um valor mínimo super atingível e um valor máximo q
 Muito dos dias eu estava zero motivado, exausto com a rotina do dia a dia. Mas uma vez instalado, o hábito é uma coisa incrível! Em dias assim, tudo que eu pensava era:
 
 > "No mínimo 30 minutos, no máximo 1 hora…"
-> as
 
 Um dia ou outro, passavam-se os 30 minutos e eu mal conseguia colocar uma ideia em prática. Mas na grande maioria das vezes, os 30 minutos viravam 40 e 40 viravam 1 hora de trabalho super produtivo.
 
