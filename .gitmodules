@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/LeaveIt"]
 	path = themes/LeaveIt
-	url = https://github.com/liuzc/LeaveIt.git
+	url = https://github.com/mapaiva/LeaveIt.git
