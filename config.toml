@@ -66,4 +66,12 @@ preserveTaxonomyNames = true
     Instagram = "mapaiva_a"
     Telegram = "mapaiva"
     Medium = "@matheus-paiva"
-	LinkedIn = "matheus-paiva-29193879"
+    LinkedIn = "matheus-paiva-29193879"
+
+[minify]
+  minifyOutput = false
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
