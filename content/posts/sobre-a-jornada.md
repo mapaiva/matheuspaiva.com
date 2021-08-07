@@ -1,6 +1,6 @@
 +++
 categories = ["Life"]
-date = 2021-08-01T22:43:00Z
+date = 2021-08-07T22:43:00Z
 description = "Aprendizados sobre aceitação e fé"
 draft = true
 featured_image = "https://cdn-images-1.medium.com/max/1600/0*D6MzTiRHX7Gihyr5"
