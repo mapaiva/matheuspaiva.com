@@ -69,7 +69,7 @@ preserveTaxonomyNames = true
     LinkedIn = "matheus-paiva-29193879"
 
 [minify]
-  minifyOutput = false
+  minifyOutput = true
 
 [sitemap]
   changefreq = "monthly"
