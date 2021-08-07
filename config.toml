@@ -1,0 +1,69 @@
+baseURL = "https://mapaiva.com"
+languageCode = "en-us"
+title = "Matheus Paiva (mapaiva)"
+theme = "LeaveIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "UA-32844244-1"
+
+preserveTaxonomyNames = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+[params]
+    since = 2011
+    author = "Matheus Paiva"
+    avatar = "/images/me/avatar.jpg"
+    subtitle = "Software Engineer | Golang | Elixir | Tech stuff | Life"
+    cdn_url = ""			# Base CDN URL
+    home_mode = "" 			# post or other
+
+    google_verification = ""
+   
+    description = "Blog sharing thoughts about Software Engineering, Tech Stuff, Self Improvement, and Life. Mainly about life."
+    keywords = "software-engineering, software, technology, blog, golang, elixir, aws, kubenetes, docker, self-improvement, life"
+
+    license= ""
+
+[params.social]
+    GitHub = "mapaiva"
+    Twitter = "mapaiva_a"
+    Email   = "matheus.a.paiva@gmail.com"
+    Instagram = "mapaiva_a"
+    Telegram = "mapaiva"
+    Medium = "@matheus-paiva"
+	LinkedIn = "matheus-paiva-29193879"
