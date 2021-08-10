@@ -16,7 +16,7 @@ preserveTaxonomyNames = true
   noreferrerLinks = true
 
 [Permalinks]
- posts = "/:slug/"
+ posts = "posts/:slug/"
 
 [menu]
   [[menu.main]]
