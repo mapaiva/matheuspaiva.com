@@ -38,7 +38,7 @@ preserveTaxonomyNames = true
     since = 2011
     author = "Matheus Paiva"
     avatar = "/images/me/avatar.jpg"
-    subtitle = "Software Engineer | Golang | Elixir | Tech stuff | Life"
+    subtitle = "Software Engineer at @roads.run | Golang | Elixir | Tech stuff | Life"
     cdn_url = ""			# Base CDN URL
     home_mode = "" 			# post or other
 
