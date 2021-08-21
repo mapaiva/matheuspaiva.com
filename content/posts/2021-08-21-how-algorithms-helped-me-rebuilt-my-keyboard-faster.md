@@ -14,9 +14,9 @@ I decided to clean up my keyboard this weekend and it was about time. After more
 
 I started follwing the drill. I watched some Youtube videos to get the idea over what I was about to do and to reduce the chances of accidentally terminate for good my Redragon.
 
-Time to get my hands dirty. With my plastic pot, paint brush and key cap remover in hands, I dig into it, starting by removing my keyboard 105 keycaps. Man that's some piece of job.
+Time to get my hands dirty. With my plastic pot, paint brush and keycap remover in hands, I dig into it, starting by removing my keyboard 105 keycaps. Man that's some piece of job.
 
-With a key cap naked keyboard, fase 2 started: remove all dirty from the keyboard with the paint brush. And man, until this time I was unable to realized how much of everthing a mechanical keyboard is able to retain. It felt like my whole apartment was beneath theses plastic caps.
+With a keycap naked keyboard, fase 2 started: remove all dirty from the keyboard with the paint brush. And man, until this time I was unable to realized how much of everthing a mechanical keyboard is able to retain. It felt like my whole apartment was beneath theses plastic caps.
 
 After cleaning all dust, crumbs and dog fur out of the Redragon, time to phase 3: dry up all wet keycaps. That was, definitively the most boring part of all. To ensure they were not wet and wouldn't damage the eletronics of the keyboard, I dried up, one by one, the 105 caps.
 
