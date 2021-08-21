@@ -32,7 +32,7 @@ There were just one problem, specifically with **find the cap on the pile of cap
 
 When I suddenly had a click: Dude, this is a search problem! Each time I need a new cap, I need to go over all the keycaps randomly to find it and it is taking forever. To fix it, I just need a better form to organize the caps for searching. A better data structure. And for me, the clear choice was a **Hash Table**.
 
-A **Hash Table** is data structure where you a take a whole buch of items and store them grouped according to some sort of order. This way, if you have 100 items and 10 groups, instead of searching over the 100's to find an item, you find out which group this item belongs to, and narrow down dramatically the number of items we need to look up.
+A **Hash Table** is data structure where you a take a whole buch of items and store them grouped according to some order. This way, if you have 100 items and 10 groups, instead of searching over the 100's to find an item, you find out which group this item belongs to, and narrow down dramatically the number of items you need to look up.
 
 So that's exactly what I did. I divided the keycaps into 4 groups: **letters, numbers, function keys (F1, F2, and so on) and special keys (Enter, PgDown, Space bar, etc)** and ran the same algorithm with a slight change:
 
@@ -42,7 +42,7 @@ So that's exactly what I did. I divided the keycaps into 4 groups: **letters, nu
 
 Man it was magical! I just grouped the keycaps into simple categories and I finished the whole job within a couple of minutes. I could've done it faster, but I accidentally misplaced the `R` key and had to pop out half of the keyboard row.
 
-Dude, it was awesome to realize how common software engineering solutions are really impactful in the way we organize and search information. I'm really glad that women and men before me put in the hard work to create these great ideas so I don't need to cave them from scratch while putting 105 keycaps back on my keyboard!
+It was awesome to realize how common software engineering solutions are really impactful in the way we organize and search information. I'm really glad that women and men before me put in the hard work to create these great ideas so I don't need to cave them from scratch while putting 105 keycaps back on my keyboard!
 
 ---
 
