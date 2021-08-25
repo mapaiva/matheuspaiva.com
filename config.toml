@@ -1,13 +1,12 @@
 baseURL = "https://matheuspaiva.com"
 languageCode = "en-us"
-title = "Matheus Paiva (mapaiva)"
-theme = "LeaveIt"
+title = "Matheus Paiva"
+theme = "PaperMod"
 
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-32844244-1"
-
 preserveTaxonomyNames = true
 
 [blackfriday]
@@ -20,43 +19,49 @@ preserveTaxonomyNames = true
 
 [menu]
   [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
     name = "Blog"
     url = "/posts/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 2
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
     weight = 3
 
+
 [params]
-    since = 2011
+    ShowShareButtons = true
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+    ShowCodeCopyButtons = true
     author = "Matheus Paiva"
-    avatar = "/images/me/avatar.jpg"
-    subtitle = "Software Engineer at @roads.run | Golang | Elixir | Tech stuff | Life"
-    cdn_url = ""			# Base CDN URL
-    home_mode = "" 			# post or other
+    description = "Blog sharing thoughts about Software Engineering, Tech Stuff, Self Improvement, and Life."
 
-    google_verification = ""
-   
-    description = "Blog sharing thoughts about Software Engineering, Tech Stuff, Self Improvement, and Life. Mainly about life."
-    keywords = "software-engineering, software, technology, blog, golang, elixir, aws, kubenetes, docker, self-improvement, life"
+[params.profileMode]
+    enabled = true
+    imageUrl = "/images/me/avatar.jpg"
+    subtitle = "Software Engineer at [@roads.run](https://roads.run)"
 
-    license= ""
-
-[params.social]
-    GitHub = "mapaiva"
-    Twitter = "mapaiva_a"
-    Email   = "matheus.a.paiva@gmail.com"
-    Instagram = "mapaiva_a"
-    Telegram = "mapaiva"
-    Medium = "@matheus-paiva"
-    LinkedIn = "matheus-paiva-29193879"
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/mapaiva"
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/matheus-paiva-29193879"
+[[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/mapaiva_a"
+[[params.socialIcons]]
+    name = "instagram"
+    url = "https://instagram.com/mapaiva_a"
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:matheus.a.paiva@gmail.com"
 
 [minify]
   minifyOutput = true

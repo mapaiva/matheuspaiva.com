@@ -4,3 +4,6 @@
 [submodule "themes/LeaveIt"]
 	path = themes/LeaveIt
 	url = https://github.com/mapaiva/LeaveIt.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

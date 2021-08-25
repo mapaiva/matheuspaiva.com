@@ -1,10 +1,11 @@
 ---
 title: "Como Manter a Disciplina"
 description: "Um método para criar bons hábitos"
-featured_image: "https://miro.medium.com/max/1400/0*hjZBPmuvfd2y43s9"
 tags: ["Self Improvement", "Motivation", "Discpline"]
 categories: ["Life"]
 date: 2021-07-06T19:50:33-03:00
+cover:
+  image: "https://miro.medium.com/max/1400/0*hjZBPmuvfd2y43s9"
 ---
 
 Escrevi no mês passado sobre a importância da disciplina para atingir objetivos de longo prazo e sobre como é importante cultivar bons hábitos pra [conseguir se manter fazendo o que você tem que fazer](/posts/sobre-se-motivar/).

@@ -1,9 +1,8 @@
 ---
 title: "About"
-date: 2021-06-21T18:48:23-03:00
 ---
 
-# Hello Everyone...
+# Hello Everyone!
 
 I'm Matheus Paiva. I'm a Software Engineer focusing on web development and Computer Engineer graduated from [FIAP](https://www.fiap.com.br/).
 

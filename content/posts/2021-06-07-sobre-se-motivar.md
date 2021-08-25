@@ -1,10 +1,11 @@
 ---
 title: "Sobre se motivar"
 description: "Como se manter fazendo o que você tem que fazer"
-featured_image: "https://miro.medium.com/max/10224/0*Dx8Ry1kwr3DKjiuK"
 date: 2021-06-07T18:31:36-03:00
 tags: ["Self Improvement", "Motivation", "Discpline"]
 categories: ["Life"]
+cover:
+  image: "https://miro.medium.com/max/10224/0*Dx8Ry1kwr3DKjiuK"
 ---
 
 No começo desse ano, 2021, comecei minha jornada de desenvolvimento pessoal e um dos primeiros tópicos quando se fala de sucesso, é saber o que você quer e como conseguir isso.

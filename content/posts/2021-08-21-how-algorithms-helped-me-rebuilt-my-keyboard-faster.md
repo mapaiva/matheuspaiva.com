@@ -7,12 +7,13 @@ tags:
   - Algorithms
   - HashTable
   - Technology
-featured_image: /images/posts/2021-08-21-how-algorithms-helped-me-rebuilt-my-keyboard-faster/1.JPG
+cover:
+  image: /images/posts/2021-08-21-how-algorithms-helped-me-rebuilt-my-keyboard-faster/1.JPG
 ---
 
 I decided to clean up my keyboard this weekend and it was about time. After more than a year of use, it was shameful and disgustingly filthy.
 
-I started follwing the drill. I watched some Youtube videos to get the idea over what I was about to do and to reduce the chances of accidentally terminate for good my Redragon.
+I started following the drill. I watched some Youtube videos to get the idea over what I was about to do and to reduce the chances of accidentally terminate for good my Redragon.
 
 Time to get my hands dirty. With my plastic pot, paint brush and keycap remover in hands, I dig into it, starting by removing my keyboard 105 keycaps. Man that's some piece of job.
 
@@ -24,7 +25,11 @@ Boring part finished, time to the pleasant and final part: put all caps back on 
 
 By definition, an algorithm is simply "a set of instructions that must be followed in a fixed order". So, I came up with a simple one:
 
-> Put the caps back from bottom to top, from left to right. Look which cap goes on that specific gap, find the cap on the pile of caps, put it on and move to the next gap.
+---
+
+_Put the caps back from bottom to top, from left to right. Look which cap goes on that specific gap, find the cap on the pile of caps, put it on and move to the next gap._
+
+---
 
 ![Keyboard without some keycaps](/images/posts/2021-08-21-how-algorithms-helped-me-rebuilt-my-keyboard-faster/2.JPG)
 
@@ -36,7 +41,11 @@ A **Hash Table** is data structure where you a take a whole buch of items and st
 
 So that's exactly what I did. I divided the keycaps into 4 groups: **letters, numbers, function keys (F1, F2, and so on) and special keys (Enter, PgDown, Space bar, etc)** and ran the same algorithm with a slight change:
 
-> Put the caps back from bottom to top, from left to right. Look which cap goes on that specific gap, **find to which group this cap belongs**, find the cap on the **group** of caps, put it on and move to the next gap.
+---
+
+_Put the caps back from bottom to top, from left to right. Look which cap goes on that specific gap, **find to which group this cap belongs**, find the cap on the **group** of caps, put it on and move to the next gap._
+
+---
 
 ![Keyboard and keycaps separated by groups](/images/posts/2021-08-21-how-algorithms-helped-me-rebuilt-my-keyboard-faster/3.JPG)
 
