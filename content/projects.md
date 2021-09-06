@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+disableShare: true
+hideMeta: true
 ---
 
 ## 2021
