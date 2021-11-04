@@ -45,7 +45,7 @@ preserveTaxonomyNames = true
 [params.profileMode]
     enabled = true
     imageUrl = "/images/me/avatar.jpg"
-    subtitle = "Software Engineer at [@Avenue](https://avenue.us)"
+    subtitle = "Software Engineer & Team Leader at [@Avenue](https://avenue.us)"
 
 [[params.socialIcons]]
     name = "github"
