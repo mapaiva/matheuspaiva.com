@@ -33,7 +33,7 @@ _Put the caps back from bottom to top, from left to right. Look which cap goes o
 
 ![Keyboard without some keycaps](/images/posts/2021-08-21-how-algorithms-helped-me-rebuilt-my-keyboard-faster/2.JPG)
 
-There were just one problem, specifically with **find the cap on the pile of caps**. Since the keycaps were randomly disposed on the table, each time I needed to find an specific cap, I needed to seach it among all the other dozens of plastic parts, performing a full scan seach with my brain. It was hellish, insane, and slow hard work.
+There were just one problem, specifically with **find the cap on the pile of caps**. Since the keycaps were randomly disposed on the table, each time I needed to find an specific cap, I needed to seach it among all the other dozens of plastic parts, performing a full scan search with my brain. It was hellish, insane, and slow hard work.
 
 When I suddenly had a click: Dude, this is a search problem! Each time I need a new cap, I need to go over all the keycaps randomly to find it and it is taking forever. To fix it, I just need a better form to organize the caps for searching. A better data structure. And for me, the clear choice was a **Hash Table**.
 
