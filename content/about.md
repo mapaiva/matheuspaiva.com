@@ -6,10 +6,10 @@ hideMeta: true
 
 # Hi, I'm Matheus Paiva! 👋
 
-I’m a Software Engineer passionate about technology, security, and designing simple solutions to complex problems.
+I'm passionate about technology and people. I believe that an environment that combines purpose, motivation, and results is key to success.
 
-Computer Engineer graduated in 2018, I have 4+ years of experience creating, scaling and monitoring distributed systems for different company specs, from early-stage startups to big corporations in two countries.
+Extensive experience in building software, software delivery processes, product delivery, prioritizing roadmaps based on business strategy, negotiating with stakeholders, and influencing decision-making.
 
-I work mostly with Go and Elixir on AWS environments using Kubernetes.
+Graduated in Computer Engineering, I've worked in startups to large media companies in Brazil and the Netherlands. I've been involved in building various digital products from scratch to large-scale media delivery projects (BBB, Globoplay).
 
-<!-- Currently, I'm building a financial app [@funfinance]()! -->
+Currently, I'm working a software Engineer @ [Google](https://www.linkedin.com/company/google/)!
