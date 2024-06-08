@@ -12,4 +12,4 @@ Extensive experience in building software, software delivery processes, product 
 
 Graduated in Computer Engineering, I've worked in startups to large media companies in Brazil and the Netherlands. I've been involved in building various digital products from scratch to large-scale media delivery projects (BBB, Globoplay).
 
-Currently, I'm working a software Engineer @ [Google](https://www.linkedin.com/company/google/)!
+Currently, I'm working as a Software Engineer @ [Google](https://www.linkedin.com/company/google/)!
